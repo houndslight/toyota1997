@@ -10,6 +10,6 @@ This project is a remake of the Toyota website and how it would have looked on a
 
 
 
-## Demo the site here
+## Demo the site
 
 [Here!](https://scintillating-pothos-10421b.netlify.app/)
